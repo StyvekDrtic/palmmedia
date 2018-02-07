@@ -1,0 +1,145 @@
+.staj {
+  .jumbotronProject {
+    background-image: url("../img/content/jezdeckaStajSkvrnov/pozadi.jpg");
+  }
+}
+
+.projectView {
+  .jumbotronProject {
+    height: 530px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+
+    .innerJumbotronProject {
+      padding-top: 240px;
+      text-align: center;
+
+      .headingProject {
+        width: 460px;
+        display: inline-block;
+        text-align: right;
+        vertical-align: middle;
+        margin-right: 50px;
+
+        h1 {
+          font-family: AveMedium;
+          font-size: 40px;
+          color: #FFFFFF;
+          margin: 0;
+        }
+
+        .urlProject {
+          margin-top: 10px;
+
+          i {
+            font-size: 15px;
+            display: inline-block;
+            vertical-align: middle;
+            color: #fff;
+            margin-right: 5px;
+          }
+
+          a {
+            font-family: AveRoman;
+            font-size: 12px;
+            color: #FFFFFF;
+            display: inline-block;
+            text-decoration: none;
+            vertical-align: middle;
+          }
+        }
+      }
+
+      .descriptionProject {
+        width: 460px;
+        display: inline-block;
+        vertical-align: middle;
+        text-align: left;
+        margin-left: 50px;
+
+        p {
+          font-family: AveRoman;
+          font-size: 16px;
+          color: #FFFFFF;
+          margin: 0;
+          margin-bottom: -15px;
+        }
+      }
+    }
+  }
+}
+
+.contentProject {
+  padding-top: 468px;
+  width: calc(100% - 80px);
+  max-width: 1020px;
+  margin: 0 auto;
+
+  h2 {
+    font-family: AveRoman;
+    font-size: 30px;
+    color: #575757;
+    width: 240px;
+    text-align: right;
+    float: left;
+    margin: 0;
+
+    span {
+      color: #FFBA48;
+      font-family: AveHeavyOblique;
+    }
+  }
+
+  .projectOverview {
+    margin-top: 80px;
+
+    p {
+      font-size: 14px;
+      color: #575757;
+      width: calc(100% - 340px);
+      margin-left: auto;
+      margin-top: 0;
+      margin-bottom: 0;
+
+      &:first-child {
+        margin-bottom: 20px;
+      }
+    }
+  }
+
+  .relatedPictures {
+    margin-top: 100px;
+
+    ul {
+      padding: 0;
+      margin-left: auto;
+      width: calc(100% - 340px);
+      margin-top: 0;
+      margin-bottom: 0;
+
+      li {
+        list-style: none;
+        margin-bottom: 70px;
+
+        span {
+          display: block;
+          font-family: AveBookOblique;
+          font-size: 14px;
+          color: #AFAFAF;
+          letter-spacing: 0;
+          margin-left: 20px;
+          margin-top: 25px;
+        }
+
+        img {
+          width: 100%;
+        }
+      }
+    }
+  }
+}
