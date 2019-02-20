@@ -46,6 +46,22 @@
   }
 }
 
+.onthereboundProject {
+  .jumbotronProject {
+    background-image: url("../img/content/ontherebound/pozadi.jpg");
+  }
+
+  h1 {
+    @media screen and (max-width: 1000px) {
+      font-size: 35px !important;
+    }
+
+    @media screen and (max-width: 900px) {
+      font-size: 30px !important;
+    }
+  }
+}
+
 .beuniqueProjekt {
   .jumbotronProject {
     background-image: url("../img/content/beunique/pozadi.jpg");
