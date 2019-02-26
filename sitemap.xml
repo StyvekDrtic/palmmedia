@@ -9,53 +9,68 @@
 
 <url>
   <loc>https://palmmedia.co/</loc>
-  <lastmod>2018-06-26T20:12:28+00:00</lastmod>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://palmmedia.co/projects</loc>
-  <lastmod>2018-06-26T20:12:28+00:00</lastmod>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://palmmedia.co/social_media_marketing</loc>
-  <lastmod>2018-06-26T20:12:28+00:00</lastmod>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://palmmedia.co/podcasting_services</loc>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://palmmedia.co/video_photo_production</loc>
-  <lastmod>2018-06-26T20:12:28+00:00</lastmod>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://palmmedia.co/website_development</loc>
-  <lastmod>2018-06-26T20:12:28+00:00</lastmod>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://palmmedia.co/voice</loc>
-  <lastmod>2018-06-26T20:12:28+00:00</lastmod>
+  <loc>https://palmmedia.co/ontherebound</loc>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://palmmedia.co/beunique</loc>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://palmmedia.co/proti_proudu</loc>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://palmmedia.co/david_kolar</loc>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://palmmedia.co/simekostav</loc>
-  <lastmod>2018-06-26T20:12:28+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>https://palmmedia.co/lanistae</loc>
-  <lastmod>2018-06-26T20:12:28+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>https://palmmedia.co/beunique</loc>
-  <lastmod>2018-06-26T20:12:28+00:00</lastmod>
-  <priority>0.60</priority>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://palmmedia.co/jezdecka_staj_skvrnov</loc>
-  <lastmod>2018-06-26T20:12:28+00:00</lastmod>
-  <priority>0.60</priority>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://palmmedia.co/lanistae</loc>
+  <lastmod>2019-02-26T12:57:47+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
