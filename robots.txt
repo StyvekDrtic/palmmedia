@@ -1,2 +1,3 @@
+Sitemap: https://palmmedia.co/sitemap.xml
 User-Agent: *
 Disallow:
